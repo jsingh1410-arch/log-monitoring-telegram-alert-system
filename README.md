@@ -881,6 +881,9 @@ CompTIA Network+	📚 Planned	Q4 2026
 CompTIA Security+	📚 Planned	Q1 2027
 Microsoft AZ-900 (Azure Fundamentals)	📚 Planned	Q2 2027
 
+Education Path
+I am currently pursuing both a Bachelor’s and a Master’s degree in Information Technology to build a strong foundation in IT systems, cybersecurity, and emerging technologies while developing advanced technical and analytical skills.
+
  Resources & References
 Microsoft Active Directory Documentation
 DNS Fundamentals
@@ -894,7 +897,7 @@ I'm actively seeking opportunities to grow my IT support and system administrati
 Platform	Link
 💼 LinkedIn	jay-singh-48b4bb20
 🐙 GitHub	jsingh1410-arch
-📧 GitHub Repository	verbose-telegram-1
+📧 GitHub Repository	log-monitoring-telegram-alert-system
 
 Course & Certification Information
 Program: IT Support Specialist Certification
