@@ -876,10 +876,10 @@ Certification Path
 I am pursuing industry-recognized certifications to validate my expertise:
 
 Certification	Status	Target Date
-CompTIA A+	📚 In Progress	Q3 2026
-CompTIA Network+	📚 Planned	Q4 2026
-CompTIA Security+	📚 Planned	Q1 2027
-Microsoft AZ-900 (Azure Fundamentals)	📚 Planned	Q2 2027
+CompTIA A+	📚 Planned Q4 2026
+CompTIA Network+	📚 Planned	Q1 2027
+CompTIA Security+	📚 Planned	Q2 2027
+Microsoft AZ-900 (Azure Fundamentals)	📚 Planned	Q3 2027
 
 Education Path
 I am currently pursuing both a Bachelor’s and a Master’s degree in Information Technology to build a strong foundation in IT systems, cybersecurity, and emerging technologies while developing advanced technical and analytical skills.
